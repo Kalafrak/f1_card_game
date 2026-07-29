@@ -12,4 +12,11 @@ class Deck:
         if len(self.cards) == 0:
             raise ValueError("Deck is empty!")
         return self.cards.pop()
+
+    def draw_hand(self, n):
+        hand = []
+        for _ in range(n):
+            card = self.draw()
+            hand.append(card)
+        return hand
     

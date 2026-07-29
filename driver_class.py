@@ -11,6 +11,10 @@ class Driver:
         self.humour = humour
         self.scrupulousness = scrupulousness
 
+    #__str__ method allows us to call e.g. print(player_card) and automatically inherit this formatting
+    def __str__(self):
+        return f"{'=' * 21}\n|{self.name:^19}|\n| {'Talent:':<15}{self.talent} |\n| {'Longevity:':<15}{self.longevity} |\n| {'Aggression:':<15}{self.aggression} |\n| {'Moxie:':<15}{self.moxie} |\n| {'Humour:':<15}{self.humour} |\n| {'Scrupulousness:':<15}{self.scrupulousness} |\n{'=' * 21}"
+
 # Loading individual drivers from drivers.json
 def load_drivers(filepath):
     with open(filepath, "r") as f:                  #Reads the .json file
