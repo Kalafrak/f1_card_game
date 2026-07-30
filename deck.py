@@ -1,5 +1,4 @@
 import random                           #For shuffling etc.
-from driver_class import load_drivers
 
 class Deck:
     def __init__(self, drivers):
