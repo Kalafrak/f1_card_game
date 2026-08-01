@@ -1,4 +1,3 @@
-import random
 from deck import Deck
 from driver_class import load_drivers
 from game_loop import play_game
