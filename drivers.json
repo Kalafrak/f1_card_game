@@ -1,542 +1,542 @@
 [
-    {
-        "name": "Lewis Hamilton",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Niki Lauda",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Fernando Alonso",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Alain Prost",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Ayrton Senna",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Nigel Mansell",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "James Hunt",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Gilles Villeneuve",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Sebastian Vettel",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Juan Manual Fangio",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Stirling Moss",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Mike Hawthorn",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jack Brabham",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jim Clark",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 100
-    },
-    {
-        "name": "Graham Hill",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jackie Stewart",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Emerson Fittipaldi",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Ronnie Peterson",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Mario Andretti",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Alan Jones",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Didier Pironi",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Rene Arnoux",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Keke Rosberg",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jacques Laffite",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Elio De Angelis",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Michele Albereto",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Gerhard Berger",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jean Alesi",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Riccardo Patrese",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Michael Schumacher",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Mika Hakkinen",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Damon Hill",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jacques Villeneuve",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Wolfgang Von Trips",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Alberto Ascari",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Martin Brundle",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Rubens Barrichello",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Valtteri Bottas",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jenson Button",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Andrea De Cesaris",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Kimi Raikonnen",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Max Verstappen",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Nico Rosberg",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "David Coulthard",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Charles Leclerc",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Lando Norris",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "George Russell",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Kimi Antonelli",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Carlos Reutemann",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Mark Webber",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Felipe Massa",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Sergio Perez",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Oscar Piastri",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Carlos Sainz",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "John Surtees",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "John Watson",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Robert Kubica",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Heikki Kovalainen",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Jochen Rindt",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    },
-    {
-        "name": "Pastor Maldonado",
-        "talent": 0,
-        "longevity": 0,
-        "aggression": 0,
-        "moxie": 0,
-        "humour": 0,
-        "scrupulousness": 0
-    }
+ {
+   "name": "Alberto Ascari",
+   "talent": 95,
+   "longevity": 60,
+   "aggression": 50,
+   "moxie": 80,
+   "humour": 71,
+   "scrupulousness": 91
+ },
+ {
+   "name": "Jim Clark",
+   "talent": 97,
+   "longevity": 66,
+   "aggression": 49,
+   "moxie": 80,
+   "humour": 73,
+   "scrupulousness": 99
+ },
+ {
+   "name": "David Coulthard",
+   "talent": 55,
+   "longevity": 88,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 90,
+   "scrupulousness": 85
+ },
+ {
+   "name": "Martin Brundle",
+   "talent": 60,
+   "longevity": 78,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 90,
+   "scrupulousness": 76
+ },
+ {
+   "name": "Damon Hill",
+   "talent": 76,
+   "longevity": 62,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 85,
+   "scrupulousness": 89
+ },
+ {
+   "name": "Heikki Kovalainen",
+   "talent": 70,
+   "longevity": 59,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 66,
+   "scrupulousness": 82
+ },
+ {
+   "name": "Jacques Laffite",
+   "talent": 74,
+   "longevity": 83,
+   "aggression": 60,
+   "moxie": 70,
+   "humour": 81,
+   "scrupulousness": 74
+ },
+ {
+   "name": "John Watson",
+   "talent": 75,
+   "longevity": 79,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 81,
+   "scrupulousness": 91
+ },
+ {
+   "name": "Michele Alboreto",
+   "talent": 75,
+   "longevity": 86,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 63,
+   "scrupulousness": 86
+ },
+ {
+   "name": "Riccardo Patrese",
+   "talent": 74,
+   "longevity": 96,
+   "aggression": 60,
+   "moxie": 70,
+   "humour": 66,
+   "scrupulousness": 78
+ },
+ {
+   "name": "Rubens Barrichello",
+   "talent": 70,
+   "longevity": 98,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 35,
+   "scrupulousness": 83
+ },
+ {
+   "name": "Valtteri Bottas",
+   "talent": 72,
+   "longevity": 80,
+   "aggression": 61,
+   "moxie": 60,
+   "humour": 90,
+   "scrupulousness": 93
+ },
+ {
+   "name": "Elio de Angelis",
+   "talent": 82,
+   "longevity": 63,
+   "aggression": 60,
+   "moxie": 70,
+   "humour": 76,
+   "scrupulousness": 87
+ },
+ {
+   "name": "Emerson Fittipaldi",
+   "talent": 86,
+   "longevity": 79,
+   "aggression": 60,
+   "moxie": 70,
+   "humour": 52,
+   "scrupulousness": 62
+ },
+ {
+   "name": "Jenson Button",
+   "talent": 85,
+   "longevity": 94,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 90,
+   "scrupulousness": 91
+ },
+ {
+   "name": "Oscar Piastri",
+   "talent": 87,
+   "longevity": 57,
+   "aggression": 60,
+   "moxie": 70,
+   "humour": 83,
+   "scrupulousness": 89
+ },
+ {
+   "name": "Lando Norris",
+   "talent": 88,
+   "longevity": 62,
+   "aggression": 60,
+   "moxie": 60,
+   "humour": 83,
+   "scrupulousness": 89
+ },
+ {
+   "name": "Ronnie Peterson",
+   "talent": 89,
+   "longevity": 64,
+   "aggression": 60,
+   "moxie": 90,
+   "humour": 57,
+   "scrupulousness": 93
+ },
+ {
+   "name": "Juan Manual Fangio",
+   "talent": 95,
+   "longevity": 70,
+   "aggression": 60,
+   "moxie": 90,
+   "humour": 62,
+   "scrupulousness": 94
+ },
+ {
+   "name": "Stirling Moss",
+   "talent": 92,
+   "longevity": 86,
+   "aggression": 60,
+   "moxie": 90,
+   "humour": 61,
+   "scrupulousness": 98
+ },
+ {
+   "name": "Alain Prost",
+   "talent": 95,
+   "longevity": 82,
+   "aggression": 60,
+   "moxie": 80,
+   "humour": 73,
+   "scrupulousness": 52
+ },
+ {
+   "name": "Jackie Stewart",
+   "talent": 95,
+   "longevity": 65,
+   "aggression": 60,
+   "moxie": 90,
+   "humour": 90,
+   "scrupulousness": 97
+ },
+ {
+   "name": "Felipe Massa",
+   "talent": 55,
+   "longevity": 89,
+   "aggression": 70,
+   "moxie": 60,
+   "humour": 24,
+   "scrupulousness": 63
+ },
+ {
+   "name": "Gerhard Berger",
+   "talent": 77,
+   "longevity": 85,
+   "aggression": 70,
+   "moxie": 70,
+   "humour": 90,
+   "scrupulousness": 82
+ },
+ {
+   "name": "Wolfgang von Trips",
+   "talent": 77,
+   "longevity": 60,
+   "aggression": 70,
+   "moxie": 70,
+   "humour": 65,
+   "scrupulousness": 73
+ },
+ {
+   "name": "Carlos Sainz",
+   "talent": 82,
+   "longevity": 74,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 82,
+   "scrupulousness": 75
+ },
+ {
+   "name": "George Russell",
+   "talent": 85,
+   "longevity": 62,
+   "aggression": 70,
+   "moxie": 70,
+   "humour": 89,
+   "scrupulousness": 73
+ },
+ {
+   "name": "Jack Brabham",
+   "talent": 87,
+   "longevity": 93,
+   "aggression": 70,
+   "moxie": 90,
+   "humour": 77,
+   "scrupulousness": 52
+ },
+ {
+   "name": "Robert Kubica",
+   "talent": 87,
+   "longevity": 67,
+   "aggression": 70,
+   "moxie": 90,
+   "humour": 44,
+   "scrupulousness": 61
+ },
+ {
+   "name": "Graham Hill",
+   "talent": 84,
+   "longevity": 95,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 90,
+   "scrupulousness": 81
+ },
+ {
+   "name": "Nico Rosberg",
+   "talent": 86,
+   "longevity": 71,
+   "aggression": 70,
+   "moxie": 70,
+   "humour": 62,
+   "scrupulousness": 65
+ },
+ {
+   "name": "John Surtees",
+   "talent": 89,
+   "longevity": 84,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 60,
+   "scrupulousness": 69
+ },
+ {
+   "name": "Kimi Raikkonen",
+   "talent": 90,
+   "longevity": 96,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 96,
+   "scrupulousness": 87
+ },
+ {
+   "name": "Mario Andretti",
+   "talent": 90,
+   "longevity": 87,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 51,
+   "scrupulousness": 73
+ },
+ {
+   "name": "Niki Lauda",
+   "talent": 92,
+   "longevity": 90,
+   "aggression": 70,
+   "moxie": 90,
+   "humour": 88,
+   "scrupulousness": 76
+ },
+ {
+   "name": "Jochen Rindt",
+   "talent": 95,
+   "longevity": 60,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 68,
+   "scrupulousness": 72
+ },
+ {
+   "name": "Mika Hakkinen",
+   "talent": 95,
+   "longevity": 73,
+   "aggression": 70,
+   "moxie": 80,
+   "humour": 94,
+   "scrupulousness": 92
+ },
+ {
+   "name": "Mark Webber",
+   "talent": 65,
+   "longevity": 75,
+   "aggression": 80,
+   "moxie": 90,
+   "humour": 90,
+   "scrupulousness": 79
+ },
+ {
+   "name": "Didier Pironi",
+   "talent": 79,
+   "longevity": 59,
+   "aggression": 80,
+   "moxie": 80,
+   "humour": 74,
+   "scrupulousness": 45
+ },
+ {
+   "name": "Jacques Villeneuve",
+   "talent": 71,
+   "longevity": 70,
+   "aggression": 80,
+   "moxie": 80,
+   "humour": 85,
+   "scrupulousness": 69
+ },
+ {
+   "name": "Sergio Perez",
+   "talent": 73,
+   "longevity": 85,
+   "aggression": 80,
+   "moxie": 70,
+   "humour": 47,
+   "scrupulousness": 59
+ },
+ {
+   "name": "Alan Jones",
+   "talent": 84,
+   "longevity": 69,
+   "aggression": 80,
+   "moxie": 90,
+   "humour": 83,
+   "scrupulousness": 50
+ },
+ {
+   "name": "Carlos Reutemann",
+   "talent": 83,
+   "longevity": 75,
+   "aggression": 80,
+   "moxie": 70,
+   "humour": 39,
+   "scrupulousness": 49
+ },
+ {
+   "name": "Kimi Antonelli",
+   "talent": 88,
+   "longevity": 56,
+   "aggression": 80,
+   "moxie": 90,
+   "humour": 79,
+   "scrupulousness": 83
+ },
+ {
+   "name": "Mike Hawthorn",
+   "talent": 85,
+   "longevity": 61,
+   "aggression": 80,
+   "moxie": 80,
+   "humour": 89,
+   "scrupulousness": 77
+ },
+ {
+   "name": "James Hunt",
+   "talent": 87,
+   "longevity": 60,
+   "aggression": 80,
+   "moxie": 90,
+   "humour": 94,
+   "scrupulousness": 73
+ },
+ {
+   "name": "Rene Arnoux",
+   "talent": 88,
+   "longevity": 77,
+   "aggression": 80,
+   "moxie": 80,
+   "humour": 63,
+   "scrupulousness": 74
+ },
+ {
+   "name": "Charles Leclerc",
+   "talent": 93,
+   "longevity": 68,
+   "aggression": 80,
+   "moxie": 80,
+   "humour": 86,
+   "scrupulousness": 87
+ },
+ {
+   "name": "Fernando Alonso",
+   "talent": 96,
+   "longevity": 99,
+   "aggression": 80,
+   "moxie": 90,
+   "humour": 91,
+   "scrupulousness": 37
+ },
+ {
+   "name": "Andrea de Cesaris",
+   "talent": 50,
+   "longevity": 91,
+   "aggression": 90,
+   "moxie": 80,
+   "humour": 82,
+   "scrupulousness": 83
+ },
+ {
+   "name": "Pastor Maldonado",
+   "talent": 47,
+   "longevity": 58,
+   "aggression": 90,
+   "moxie": 80,
+   "humour": 83,
+   "scrupulousness": 59
+ },
+ {
+   "name": "Sebastian Vettel",
+   "talent": 92,
+   "longevity": 92,
+   "aggression": 90,
+   "moxie": 80,
+   "humour": 90,
+   "scrupulousness": 61
+ },
+ {
+   "name": "Jean Alesi",
+   "talent": 93,
+   "longevity": 81,
+   "aggression": 90,
+   "moxie": 80,
+   "humour": 73,
+   "scrupulousness": 82
+ },
+ {
+   "name": "Keke Rosberg",
+   "talent": 94,
+   "longevity": 63,
+   "aggression": 90,
+   "moxie": 90,
+   "humour": 90,
+   "scrupulousness": 85
+ },
+ {
+   "name": "Nigel Mansell",
+   "talent": 96,
+   "longevity": 90,
+   "aggression": 90,
+   "moxie": 95,
+   "humour": 97,
+   "scrupulousness": 82
+ },
+ {
+   "name": "Gilles Villeneuve",
+   "talent": 98,
+   "longevity": 60,
+   "aggression": 90,
+   "moxie": 90,
+   "humour": 90,
+   "scrupulousness": 95
+ },
+ {
+   "name": "Lewis Hamilton",
+   "talent": 99,
+   "longevity": 98,
+   "aggression": 90,
+   "moxie": 90,
+   "humour": 68,
+   "scrupulousness": 75
+ },
+ {
+   "name": "Ayrton Senna",
+   "talent": 98,
+   "longevity": 74,
+   "aggression": 98,
+   "moxie": 90,
+   "humour": 54,
+   "scrupulousness": 26
+ },
+ {
+   "name": "Max Verstappen",
+   "talent": 97,
+   "longevity": 76,
+   "aggression": 99,
+   "moxie": 90,
+   "humour": 67,
+   "scrupulousness": 30
+ },
+ {
+   "name": "Michael Schumacher",
+   "talent": 97,
+   "longevity": 97,
+   "aggression": 99,
+   "moxie": 90,
+   "humour": 84,
+   "scrupulousness": 25
+ }
 ]

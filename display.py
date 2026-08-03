@@ -38,7 +38,7 @@ def display_round_result(result, cpu_card, player_score, cpu_score):
 def display_end_of_game(player_score, cpu_score):
     if player_score > cpu_score:
         input("And there's the chequered flag!")
-        input(f"You clinched the championship by {player_score - cpu_score}!")
+        input(f"You clinched the championship by {player_score - cpu_score} points!")
         input("And I've got to stop...")
         input("because I've got a lump in my throat...")
         input("You'll go down in history as one of the greats!")
