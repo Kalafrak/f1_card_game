@@ -16,6 +16,25 @@ def display_intro():
 def display_round_number(round_num):
     print(f"{'*' * 50}\n{'Round ' + str(round_num):^50}\n{'*' * 50}")
 
+def display_mode_menu():
+    while True:
+        mode_choice = input("Choose a game mode - (c)lassic or (d)raft: ")
+        if mode_choice.lower() in ["quit", "exit"]:
+            print("See ya 'round, Rookie!")
+            return None
+        if mode_choice.lower() in ["c", "classic"]:
+            return "classic"
+        if mode_choice.lower() in ["d", "draft"]:
+            return "draft"
+        print("That's not a valid mode, try again.")
+
+def display_hand(hand):
+    print("Your hand is:")
+    time.sleep(1.5)
+    for index, card in enumerate(hand, start=1):
+        print(f"[{index}]")
+        print(card)
+
 def display_player_card(player_card):
     print("Your card is:")
     time.sleep(1.5)
